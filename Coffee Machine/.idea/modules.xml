@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" group="Coffee_Machine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction.iml" group="Coffee_Machine/Problems-Direction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction_main.iml" group="Coffee_Machine/Problems-Direction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction_test.iml" group="Coffee_Machine/Problems-Direction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room.iml" group="Coffee_Machine/Problems-Floor-space_of_the_room" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_main.iml" group="Coffee_Machine/Problems-Floor-space_of_the_room" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_test.iml" group="Coffee_Machine/Problems-Floor-space_of_the_room" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Harry Potter/Problems-Harry_Potter.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Harry Potter/Problems-Harry_Potter.iml" group="Coffee_Machine/Problems-Harry_Potter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Harry Potter/Problems-Harry_Potter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Harry Potter/Problems-Harry_Potter_main.iml" group="Coffee_Machine/Problems-Harry_Potter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Harry Potter/Problems-Harry_Potter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Harry Potter/Problems-Harry_Potter_test.iml" group="Coffee_Machine/Problems-Harry_Potter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reading integer numbers/Problems-Reading_integer_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reading integer numbers/Problems-Reading_integer_numbers.iml" group="Coffee_Machine/Problems-Reading_integer_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reading integer numbers/Problems-Reading_integer_numbers_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reading integer numbers/Problems-Reading_integer_numbers_main.iml" group="Coffee_Machine/Problems-Reading_integer_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reading integer numbers/Problems-Reading_integer_numbers_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reading integer numbers/Problems-Reading_integer_numbers_test.iml" group="Coffee_Machine/Problems-Reading_integer_numbers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Coffee_Machine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Coffee_Machine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Coffee_Machine/util" />
+    </modules>
+  </component>
+</project>
